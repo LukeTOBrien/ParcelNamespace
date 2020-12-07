@@ -1,0 +1,2 @@
+!function(){var $d4d41d74198ac6b376ca46cc2580ffa6$export$Functions,Functions;function $c29607345a74cc7551f9a6615e8d9$export$Hello(){console.log("Hello")}function $c29607345a74cc7551f9a6615e8d9$export$Bye(){console.log("Bye")}(Functions=$d4d41d74198ac6b376ca46cc2580ffa6$export$Functions||($d4d41d74198ac6b376ca46cc2580ffa6$export$Functions={})).hello=$c29607345a74cc7551f9a6615e8d9$export$Hello,Functions.bye=$c29607345a74cc7551f9a6615e8d9$export$Bye,window.namespace=$d4d41d74198ac6b376ca46cc2580ffa6$export$Functions}();
+//# sourceMappingURL=script.39e78319.js.map
